@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Avoid creating -hub dir without processing images (#8334)
