@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Model typehints Docker fix (#8306)
