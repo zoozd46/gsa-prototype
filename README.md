@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Add simple-utilities.md Docs page (#8269)
