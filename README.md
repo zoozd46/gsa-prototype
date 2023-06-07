@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Fix heatmaps width-height order bug (#7184)
