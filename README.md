@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+OBB Docs updates (#7568)
