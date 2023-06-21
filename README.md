@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Auto-format by https://ultralytics.com/actions
