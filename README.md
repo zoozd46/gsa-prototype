@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Tracker: clean up GMC (#8003)
