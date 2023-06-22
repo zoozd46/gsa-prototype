@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Fix cmake requirements for ARM64 (#8589)
