@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Resize angle, count, and stage on keypoint number change (#7598)
