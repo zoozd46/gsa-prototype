@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Update CITATION.cff with cffinit corrections (#8658)
