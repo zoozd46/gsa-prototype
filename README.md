@@ -1,1 +1,1 @@
-fix non-coco val
+Update docs building code (#7601)
