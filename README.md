@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
