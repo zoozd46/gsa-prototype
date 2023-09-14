@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
