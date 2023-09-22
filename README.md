@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
