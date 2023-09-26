@@ -1,1 +1,1 @@
-Add domain checks to CI docs page (#8714)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
