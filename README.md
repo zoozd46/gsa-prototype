@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update Discord and Contributing Guide URLs (#9270)
