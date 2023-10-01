@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
