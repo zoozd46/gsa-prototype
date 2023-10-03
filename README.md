@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
