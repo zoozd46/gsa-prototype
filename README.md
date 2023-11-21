@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
