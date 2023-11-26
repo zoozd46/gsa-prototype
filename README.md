@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
