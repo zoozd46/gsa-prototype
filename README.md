@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
