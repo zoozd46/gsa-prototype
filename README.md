@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
