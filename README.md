@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+Add plot_images conf_thresh parameter (#8446)
