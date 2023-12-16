@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
