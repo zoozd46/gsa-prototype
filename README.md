@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+OBB: Fix plot_images (#7592)
