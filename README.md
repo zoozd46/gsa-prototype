@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
