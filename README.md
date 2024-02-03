@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+YAML reformat (#7669)
