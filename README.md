@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update fraction arg to employ a random selection (#8234)
