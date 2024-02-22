@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
