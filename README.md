@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Update docs building code (#7601)
