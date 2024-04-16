@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
