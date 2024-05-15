@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
