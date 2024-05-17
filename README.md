@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
