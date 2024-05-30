@@ -1,1 +1,1 @@
-fix print val map
+Allow Annotator PIL.Image inputs (#8397)
