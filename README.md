@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Improve Coral Edge TPU guide (#8160)
