@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
