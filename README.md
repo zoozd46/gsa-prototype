@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
