@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Fix Yolo 8.0.206 scale bug (#7821)
