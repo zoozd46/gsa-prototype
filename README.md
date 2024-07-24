@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add PR Summary step to Ultralytics Actions (#7675)
