@@ -1,1 +1,1 @@
-example Google Colab
+Add YouTube iframe loading=lazy (#8001)
