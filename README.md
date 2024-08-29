@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Update Discord and Contributing Guide URLs (#9270)
