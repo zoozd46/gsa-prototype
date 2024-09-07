@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
