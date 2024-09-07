@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
