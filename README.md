@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
