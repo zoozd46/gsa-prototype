@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add PR Summary step to Ultralytics Actions (#7675)
