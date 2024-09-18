@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Update Colab notebook for YOLOv8.1 (#8660)
