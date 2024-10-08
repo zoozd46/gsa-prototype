@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Add quantization support to TensorFlow.js converter (#7008)
