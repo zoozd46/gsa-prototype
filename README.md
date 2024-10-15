@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
