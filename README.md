@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
