@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Mkdocs updates (#8008)
