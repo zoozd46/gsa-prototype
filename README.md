@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Update TFLite Docs images (#8605)
