@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Feature: Create HUB Models from CLI or Python Script (#7316)
