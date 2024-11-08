@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add visuals in guides/distance-calculation.md (#7876)
